@@ -44,6 +44,9 @@ export default function Login() {
                         </a>
                         .
                     </p>
+                    <strong className="text-red-500">
+                    login with GitHub (Preffered)
+                    </strong>
                 </div>
             </div>
                 <p className="text-sm text-gray-600 mt-4">
